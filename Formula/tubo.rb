@@ -1,4 +1,4 @@
-class Tle < Formula
+class Tubo < Formula
   desc "Tubo localhost tunnel"
   homepage "https://github.com/Lambdo-Labs/tubo-releases"
   url "https://github.com/Lambdo-Labs/tubo-releases/releases/download/0.1.20/tubo-0.1.20.big_sur.bottle.tar.gz"

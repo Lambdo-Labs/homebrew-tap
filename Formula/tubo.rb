@@ -6,6 +6,6 @@ class Tubo < Formula
   version "0.1.20"
 
   def install
-    bin.install "tubo"
+    bin.install "tubo/0.1.20/bin/tubo"
   end
 end

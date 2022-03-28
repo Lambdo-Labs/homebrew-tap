@@ -1,11 +1,11 @@
 class Tubo < Formula
   desc "Tubo localhost tunnel"
   homepage "https://github.com/Lambdo-Labs/tubo-releases"
-  url "https://github.com/Lambdo-Labs/tubo-releases/releases/download/0.1.20/tubo-0.1.20.big_sur.bottle.tar.gz"
-  sha256 "58ecef2ce1c4cae522f09497d583247629923363f5e1bd40c0acbfd5fac19de9"
-  version "0.1.20"
+  url "https://github.com/Lambdo-Labs/tubo-releases/releases/download/0.1.21/tubo-0.1.21.big_sur.bottle.tar.gz"
+  sha256 "7c64d7672aad2eb6acca5a185f20ec653e62458c17cebaac9b4c406414a6ea13"
+  version "0.1.21"
 
   def install
-    bin.install "0.1.20/bin/tubo"
+    bin.install "0.1.21/bin/tubo"
   end
 end
